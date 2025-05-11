@@ -1,0 +1,5 @@
+
+#Derivatives & Gradient
+Numeric Differentiation, Symbolic Differentiation, Auto-Differentiation(Forward, Reverse modes)
+
+
